@@ -1,8 +1,0 @@
-README.md
-setup.cfg
-setup.py
-amirreza_package/__init__.py
-amirreza_package.egg-info/PKG-INFO
-amirreza_package.egg-info/SOURCES.txt
-amirreza_package.egg-info/dependency_links.txt
-amirreza_package.egg-info/top_level.txt
