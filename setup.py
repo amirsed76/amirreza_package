@@ -8,5 +8,8 @@ setup(
     url='https://github.com/amirsed76/amirreza_package',
     author='amirreza',
     author_email='amirreza.seddighin1376@gmail.com',
-    keywords=['pip', 'linode', 'example']
+    keywords=['pip', 'linode', 'example'],
+    install_requires=[
+        'markdown',
+    ]
 )
