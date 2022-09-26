@@ -10,6 +10,6 @@ setup(
     author_email='amirreza.seddighin1376@gmail.com',
     keywords=['pip', 'linode', 'example'],
     install_requires=[
-        'markdown',
+        'numpy',
     ]
 )
