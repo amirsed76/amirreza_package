@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='amirreza_package',
+    name='amirreza_package_v1',
     packages=['amirreza_package'],
     description='Hello world enterprise edition',
     version='0.1',
