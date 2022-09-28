@@ -7,3 +7,7 @@ def hello_word():
 
 def nump():
     print(np.array([1, 3, 4]))
+
+
+def get_name(name):
+    print(name)
